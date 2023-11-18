@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6764ad5f-a7d1-40bd-87f6-d0299b1a2dc0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iPhone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/AparelhoTelefonico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/NavegadorInternet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/ReprodutorMusical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/iPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Class Diagram iPhone.asta" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/Class Diagram iPhone.asta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Diagrama de Classe iPhone.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/Diagrama de Classe iPhone.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +44,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "onboarding.tips.debug.path": "C:/Users/jeanb/OneDrive/Documentos/GitHub/iPhone/src/Main.java"
   }
@@ -57,5 +62,8 @@
       <updated>1700302982328</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
