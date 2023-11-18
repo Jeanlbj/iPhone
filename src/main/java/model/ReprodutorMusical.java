@@ -1,6 +1,6 @@
 package main.java.model;
 
-public interface ReprodutorMusical {
+interface ReprodutorMusical {
 
     default void tocar() {
         System.out.println("TOCANDO A MÚSICA");
