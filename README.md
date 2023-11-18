@@ -1,8 +1,11 @@
 # DIO - Trilha Java Básico
 www.dio.me
 
-#### Autores
+#### Tutores
 - [Gleyson Sampaio](https://github.com/glysns)
+
+#### Autor
+- [Jean Lucas de Andrade Barbosa](https://github.com/Jeanlbj)
 
 ## POO - Desafio
 
